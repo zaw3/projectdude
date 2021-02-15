@@ -8,4 +8,5 @@ This project is to classify flowers into serveral categories based on the featur
 
 * I have used Decision Trees algorithm in this project
 
+
 * After training , our model can predict the categor of flowers
